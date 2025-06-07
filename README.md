@@ -26,7 +26,9 @@ GET /api/whoami
 # Campos devueltos
 
 ipaddress: Dirección IP del cliente que hizo la solicitud.
+
 language: Idiomas preferidos del cliente, extraídos de la cabecera Accept-Language.
+
 software: Información del sistema operativo y navegador, obtenida de la cabecera User-Agent.
 
 ## 🚀 Tecnologías utilizadas
